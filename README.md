@@ -1,37 +1,4 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yeming-uu/yeming-uu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yeming-uu/yeming-uu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    大家好！我叫张业明，来自广西浦北，我呢，学习一般，相貌一般，体格一般的内向学生。我沉着冷静，比较和善，也比较好相处，大家可以和我多交朋友，我喜欢看书。呵呵，和部分年轻人一样，有些时候很懒的，哎，这也是我比较无奈的地方啊。在今后的学习生活中，希望我们团结一致，努力学习，为自己的未来奋斗。
+    这次页面设计项目我所在的组的组员有：我、滕运、刘梦涛、李福子、张耀、李林。李福子为组长，是个好组长。项目内容为https://kj.1688.com的部分页面，我的任务为https://kj.1688.com/kjxb.html?spm=a262gg.8864560.jifovpy5.60.22136510niMtew该页面的实现。而目前我完成该页面基本布局和部分的点击事件。目前来看，我自己的进度有点慢，主要原因就是配合js、jq来写某些事件的时候有点转不来思路。
